@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MixedModeLibrary", "MixedModeLibrary\MixedModeLibrary.vcxproj", "{25096962-9732-4203-9322-4554AA458833}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppCliTests", "CppCliTests\CppCliTests.vcxproj", "{F9D2FB82-EF1C-42AB-A134-3611DE766AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTests", "CSharpTests\CSharpTests.csproj", "{0E0F92C4-D1EE-42AA-A427-3CEEBBF2301A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25096962-9732-4203-9322-4554AA458833}.Debug|x64.ActiveCfg = Debug|x64
+		{25096962-9732-4203-9322-4554AA458833}.Debug|x64.Build.0 = Debug|x64
+		{25096962-9732-4203-9322-4554AA458833}.Release|x64.ActiveCfg = Release|x64
+		{25096962-9732-4203-9322-4554AA458833}.Release|x64.Build.0 = Release|x64
+		{F9D2FB82-EF1C-42AB-A134-3611DE766AA9}.Debug|x64.ActiveCfg = Debug|x64
+		{F9D2FB82-EF1C-42AB-A134-3611DE766AA9}.Debug|x64.Build.0 = Debug|x64
+		{F9D2FB82-EF1C-42AB-A134-3611DE766AA9}.Release|x64.ActiveCfg = Release|x64
+		{F9D2FB82-EF1C-42AB-A134-3611DE766AA9}.Release|x64.Build.0 = Release|x64
+		{0E0F92C4-D1EE-42AA-A427-3CEEBBF2301A}.Debug|x64.ActiveCfg = Debug|x64
+		{0E0F92C4-D1EE-42AA-A427-3CEEBBF2301A}.Debug|x64.Build.0 = Debug|x64
+		{0E0F92C4-D1EE-42AA-A427-3CEEBBF2301A}.Release|x64.ActiveCfg = Release|x64
+		{0E0F92C4-D1EE-42AA-A427-3CEEBBF2301A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
